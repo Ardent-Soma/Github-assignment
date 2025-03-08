@@ -67,5 +67,4 @@ This document outlines the tasks related to Git version control, branching, coll
 ![Image](https://github.com/user-attachments/assets/a314d3d9-de5c-4a1d-95ba-fd4ca06a84ad)
 ![Image](https://github.com/user-attachments/assets/ea5316dc-50dd-4ce8-b9d6-8b487c9d5403)
 ![Image](https://github.com/user-attachments/assets/119b6a55-912f-4aa8-8618-ba694fe4092a)
-![Image](https://github.com/user-attachments/assets/37ea0e90-6ea9-4d22-b677-5cac36c3cf93)
 ![Image](https://github.com/user-attachments/assets/7e94a588-281d-4a99-a6e4-05bd45c361d2)
