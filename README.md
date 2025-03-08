@@ -58,7 +58,7 @@ This document outlines the tasks related to Git version control, branching, coll
 1. **Forked an open-source repository** (https://github.com/Ardent-Soma/first-contributions).
 2. **Cloned the forked repository** locally.
 3. **Created a new branch (`documentation-update`)**.
-4. **Updated documentation files** (e.g., `README.md`, `CONTRIBUTING.md`).
+4. **Updated documentation files** (`CONTRIBUTING.md`).
 5. **Committed changes** with meaningful commit messages.
 6. **Pushed the branch to the forked repository**.
 7. **Opened a PR to the original repository**.
